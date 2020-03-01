@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52cc4073-6dcb-43fa-9a6e-b350648b09c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="questions.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="questions.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="questions.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="questions.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Classes: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YX7APrmQhqFNwMJrgtZs539s0A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="MorrowindQuiz-Java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:questions.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:questions.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@3a9cd1be" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52cc4073-6dcb-43fa-9a6e-b350648b09c5" name="Default Changelist" comment="" />
+      <created>1583076941260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583076941260</updated>
+      <workItem from="1583076949522" duration="9353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="156" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583077628279">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state x="315" y="156" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1440.930@0.30.1440.930" timestamp="1583077628279" />
+    <state x="348" y="176" width="733" height="641" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583078109259">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state x="348" y="176" width="733" height="641" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.30.1440.930@0.30.1440.930" timestamp="1583078109259" />
+    <state x="453" y="244" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583081984880">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state x="453" y="244" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1440.930@0.30.1440.930" timestamp="1583081984880" />
+    <state x="498" y="254" width="424" height="487" key="FileChooserDialogImpl" timestamp="1583077219362">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state x="498" y="254" width="424" height="487" key="FileChooserDialogImpl/0.30.1440.930@0.30.1440.930" timestamp="1583077219362" />
+    <state width="1394" height="237" key="GridCell.Tab.0.bottom" timestamp="1583086483699">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state width="1394" height="237" key="GridCell.Tab.0.bottom/0.30.1440.930@0.30.1440.930" timestamp="1583086483699" />
+    <state width="1394" height="237" key="GridCell.Tab.0.center" timestamp="1583086483699">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state width="1394" height="237" key="GridCell.Tab.0.center/0.30.1440.930@0.30.1440.930" timestamp="1583086483699" />
+    <state width="1394" height="237" key="GridCell.Tab.0.left" timestamp="1583086483699">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state width="1394" height="237" key="GridCell.Tab.0.left/0.30.1440.930@0.30.1440.930" timestamp="1583086483699" />
+    <state width="1394" height="237" key="GridCell.Tab.0.right" timestamp="1583086483699">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state width="1394" height="237" key="GridCell.Tab.0.right/0.30.1440.930@0.30.1440.930" timestamp="1583086483699" />
+    <state x="224" y="130" width="992" height="733" key="SettingsEditor" timestamp="1583077157960">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state x="224" y="130" width="992" height="733" key="SettingsEditor/0.30.1440.930@0.30.1440.930" timestamp="1583077157960" />
+    <state x="413" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1583076949177">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state x="413" y="322" key="com.intellij.ide.util.TipDialog/0.30.1440.930@0.30.1440.930" timestamp="1583076949177" />
+    <state x="383" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1583084656142">
+      <screen x="0" y="30" width="1440" height="930" />
+    </state>
+    <state x="383" y="231" width="672" height="678" key="search.everywhere.popup/0.30.1440.930@0.30.1440.930" timestamp="1583084656142" />
+  </component>
+</project>
